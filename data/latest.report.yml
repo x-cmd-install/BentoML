@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.4.39"
   latestRelease: "v1.4.39"
   latestPrerelease: "v1.4.0a2"
-  collectedAt: 2026-09-10T05:17:25Z
+  collectedAt: 2026-09-10T17:18:24Z
 timeline:
   created: 2019-04-02
   lastCommit: 2026-09-07
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-05-07
   lastPrerelease: 2025-02-14
 popularity:
-  star: 8832
+  star: 8834
   watcher: 85
-  fork: 1025
+  fork: 1027
   release: 194
   contributor: 240
   pullRequest: 4250
@@ -91,7 +91,7 @@ total:
   commit: 3762
 ---
 path: /home/runner/.x-repo/github.com/bentoml/BentoML
-collectedAt: 2026-09-10T05:17:32Z
+collectedAt: 2026-09-10T17:18:43Z
 loc:
   Python:
     code: 71674
