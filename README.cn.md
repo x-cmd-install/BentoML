@@ -4,7 +4,7 @@
 
 The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
 
-![BentoML](https://repo.x-cmd.io/BentoML.svg)
+![BentoML](https://repo.x-cmd.io/BentoML.svg?lang=zh)
 
 ## 安装
 
@@ -12,35 +12,7 @@ The easiest way to serve AI apps and models - Build Model Inference APIs, Job qu
 x install BentoML
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/bentoml/BentoML>
-- **官网**: <https://bentoml.com>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `v1.4.39` (2026-05-07)
-- **最近提交**: 2026-09-07
-- **发布时间**: 2026-05-07T10:37:29Z
-
-## 流行度
-
-- **Star**: 8,832 · **Fork**: 1,025 · **开放 issue**: 1,170 · **贡献者**: 240
-
-## 累计统计
-
-- **发布数**: 194 · **已合并 PR**: 3636 · **开放 PR**: 69 · **已关闭 issue**: 1023 · **开放 issue**: 147 · **提交数**: 3762
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 4 | 20 | 0 | 1 | 6 |
-| 90d | 2026-06-12 | 0 | 6 | 47 | 0 | 9 | 6 |
-| 360d | 2025-09-15 | 16 | 91 | 69 | 21 | 17 | 95 |
-
-## 代码规模
+## 代码洞察
 
 合计: **84,715** 行代码（覆盖前 5 种语言、共 **595** 个文件）。
 
@@ -62,6 +34,36 @@ x install BentoML
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
+## 源代码
+
+- **上游仓库**: <https://github.com/bentoml/BentoML>
+- **官网**: <https://bentoml.com>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v1.4.39` (2026-05-07)
+- **最近提交**: 2026-09-07
+
+## 流行度
+
+- **Star**: 8,834 · **Fork**: 1,027 · **开放 issue**: 1,170 · **贡献者**: 240
+
+## 累计统计
+
+- **发布数**: 194 · **已合并 PR**: 3636 · **开放 PR**: 69 · **已关闭 issue**: 1023 · **开放 issue**: 147 · **提交数**: 3762
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 4 | 20 | 0 | 1 | 6 |
+| last60d | 2026-07-13 | 0 | 6 | 36 | 0 | 4 | 6 |
+| 90d | 2026-06-13 | 0 | 6 | 47 | 0 | 9 | 6 |
+| last180d | 2026-03-15 | 3 | 18 | 69 | 3 | 14 | 27 |
+| 360d | 2025-09-16 | 16 | 91 | 69 | 21 | 17 | 95 |
+| last720d | 2024-09-21 | 57 | 474 | 69 | 72 | 31 | 513 |
+
 ## 改进这些数据
 
 BentoML 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `BentoML` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -71,4 +73,4 @@ BentoML 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:17:37Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:04:25Z._
