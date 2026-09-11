@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.4.39"
   latestRelease: "v1.4.39"
   latestPrerelease: "v1.4.0a2"
-  collectedAt: 2026-09-11T00:04:11Z
+  collectedAt: 2026-09-11T05:12:15Z
 timeline:
   created: 2019-04-02
   lastCommit: 2026-09-07
@@ -91,7 +91,7 @@ total:
   commit: 3762
 ---
 path: /home/runner/.x-repo/github.com/bentoml/BentoML
-collectedAt: 2026-09-11T00:04:19Z
+collectedAt: 2026-09-11T05:12:21Z
 loc:
   Python:
     code: 71674
