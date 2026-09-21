@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 4 | 23 | 0 | 2 | 6 |
-| last60d | 2026-07-22 | 0 | 6 | 36 | 0 | 5 | 6 |
-| 90d | 2026-06-22 | 0 | 6 | 48 | 0 | 10 | 6 |
-| last180d | 2026-03-24 | 3 | 15 | 73 | 2 | 14 | 26 |
-| 360d | 2025-09-25 | 14 | 83 | 74 | 19 | 18 | 89 |
-| last720d | 2024-09-30 | 55 | 455 | 74 | 70 | 32 | 469 |
+| 30d | 2026-08-22 | 0 | 4 | 22 | 0 | 2 | 3 |
+| last60d | 2026-07-23 | 0 | 6 | 34 | 0 | 5 | 6 |
+| 90d | 2026-06-23 | 0 | 6 | 48 | 0 | 10 | 6 |
+| last180d | 2026-03-25 | 3 | 15 | 71 | 2 | 14 | 20 |
+| 360d | 2025-09-26 | 14 | 83 | 74 | 19 | 18 | 87 |
+| last720d | 2024-10-01 | 55 | 455 | 74 | 70 | 32 | 468 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for BentoML lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:39:35Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:36:44Z._
