@@ -4,7 +4,7 @@
 
 The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
 
-[![x-cmd/install — BentoML Code Quality Monitoring Repo Card](https://repo.x-cmd.io/BentoML.svg?lang=zh)](https://x-cmd.com/install/BentoML)
+[![x-cmd/install — BentoML Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/BentoML.svg?lang=zh)](https://x-cmd.com/install/BentoML)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install BentoML
 
 ## 流行度
 
-- **Star**: 8,854 · **Fork**: 1,034 · **开放 issue**: 1,171 · **贡献者**: 240
+- **Star**: 8,856 · **Fork**: 1,035 · **开放 issue**: 1,171 · **贡献者**: 240
 
 ## 累计统计
 
-- **发布数**: 194 · **已合并 PR**: 3636 · **开放 PR**: 74 · **已关闭 issue**: 1023 · **开放 issue**: 148 · **提交数**: 3762
+- **发布数**: 194 · **已合并 PR**: 3636 · **开放 PR**: 75 · **已关闭 issue**: 1023 · **开放 issue**: 148 · **提交数**: 3762
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 4 | 22 | 0 | 2 | 3 |
-| last60d | 2026-07-24 | 0 | 6 | 34 | 0 | 5 | 6 |
-| 90d | 2026-06-24 | 0 | 6 | 48 | 0 | 9 | 6 |
-| last180d | 2026-03-26 | 2 | 15 | 71 | 2 | 14 | 20 |
-| 360d | 2025-09-27 | 14 | 83 | 74 | 19 | 18 | 87 |
-| last720d | 2024-10-02 | 55 | 455 | 74 | 70 | 32 | 468 |
+| 30d | 2026-08-24 | 0 | 3 | 23 | 0 | 2 | 3 |
+| last60d | 2026-07-25 | 0 | 6 | 35 | 0 | 5 | 6 |
+| 90d | 2026-06-25 | 0 | 6 | 49 | 0 | 8 | 6 |
+| last180d | 2026-03-27 | 2 | 15 | 72 | 2 | 14 | 20 |
+| 360d | 2025-09-28 | 14 | 83 | 75 | 19 | 18 | 87 |
+| last720d | 2024-10-03 | 55 | 455 | 75 | 70 | 32 | 468 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ BentoML 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:34:31Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:41:50Z._
