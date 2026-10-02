@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,869 · **Forks**: 1,037 · **Open issues**: 1,171 · **Contributors**: 240
+- **Stars**: 8,871 · **Forks**: 1,040 · **Open issues**: 1,171 · **Contributors**: 240
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 3636 · **Open PRs**: 75 · **Closed issues**: 1023 · **Open issues**: 148 · **Commits**: 3762
+- **Releases**: 194 · **Merged PRs**: 3636 · **Open PRs**: 76 · **Closed issues**: 1023 · **Open issues**: 148 · **Commits**: 3762
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 14 | 0 | 2 | 1 |
-| last60d | 2026-08-02 | 0 | 6 | 31 | 0 | 3 | 6 |
-| 90d | 2026-07-03 | 0 | 6 | 47 | 0 | 6 | 6 |
-| last180d | 2026-04-04 | 1 | 13 | 72 | 1 | 14 | 15 |
-| 360d | 2025-10-06 | 14 | 80 | 75 | 17 | 18 | 86 |
-| last720d | 2024-10-11 | 55 | 445 | 75 | 69 | 32 | 461 |
+| 30d | 2026-09-02 | 0 | 0 | 14 | 0 | 2 | 1 |
+| last60d | 2026-08-03 | 0 | 6 | 32 | 0 | 3 | 6 |
+| 90d | 2026-07-04 | 0 | 6 | 48 | 0 | 6 | 6 |
+| last180d | 2026-04-05 | 1 | 13 | 73 | 1 | 14 | 15 |
+| 360d | 2025-10-07 | 14 | 80 | 76 | 17 | 18 | 86 |
+| last720d | 2024-10-12 | 54 | 443 | 76 | 69 | 32 | 457 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for BentoML lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:20:55Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:12:05Z._
