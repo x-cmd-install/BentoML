@@ -14,15 +14,15 @@ x install BentoML
 
 ## Code insight
 
-Total: **84,715** lines of code across **595** files in the top 5 languages.
+Total: **84,747** lines of code across **595** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 71,674 | 2,157 | 11,667 | 441 |
+| Python | 71,684 | 2,157 | 11,670 | 441 |
 | ReStructuredText | 10,068 | 0 | 4,591 | 102 |
 | Yaml | 818 | 799 | 29 | 31 |
 | Svg | 486 | 94 | 0 | 5 |
-| Jinja2 | 394 | 18 | 69 | 16 |
+| Jinja2 | 415 | 18 | 70 | 16 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.4.39` (2026-05-07)
-- **Last commit**: 2026-10-20
+- **Latest**: `v1.4.40` (2026-10-23)
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 8,915 · **Forks**: 1,050 · **Open issues**: 1,177 · **Contributors**: 240
+- **Stars**: 8,917 · **Forks**: 1,050 · **Open issues**: 1,177 · **Contributors**: 241
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 3637 · **Open PRs**: 92 · **Closed issues**: 1026 · **Open issues**: 151 · **Commits**: 3763
+- **Releases**: 195 · **Merged PRs**: 3641 · **Open PRs**: 91 · **Closed issues**: 1026 · **Open issues**: 151 · **Commits**: 3767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 1 | 18 | 0 | 3 | 1 |
-| last60d | 2026-08-24 | 0 | 4 | 40 | 2 | 5 | 5 |
-| 90d | 2026-07-25 | 0 | 7 | 52 | 2 | 8 | 7 |
-| last180d | 2026-04-26 | 1 | 11 | 88 | 3 | 17 | 13 |
-| 360d | 2025-10-28 | 12 | 71 | 92 | 20 | 21 | 75 |
-| last720d | 2024-11-02 | 52 | 413 | 92 | 68 | 35 | 426 |
+| 30d | 2026-09-24 | 1 | 5 | 17 | 0 | 3 | 5 |
+| last60d | 2026-08-25 | 1 | 8 | 39 | 2 | 5 | 9 |
+| 90d | 2026-07-26 | 1 | 11 | 51 | 2 | 7 | 11 |
+| last180d | 2026-04-27 | 2 | 15 | 87 | 3 | 17 | 17 |
+| 360d | 2025-10-29 | 13 | 73 | 91 | 19 | 21 | 79 |
+| last720d | 2024-11-03 | 53 | 416 | 91 | 68 | 35 | 430 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for BentoML lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:13:50Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:07:59Z._
