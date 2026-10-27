@@ -26,7 +26,7 @@ Total: **84,747** lines of code across **595** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6 / 10**
+Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,920 · **Forks**: 1,050 · **Open issues**: 1,177 · **Contributors**: 241
+- **Stars**: 8,920 · **Forks**: 1,051 · **Open issues**: 1,177 · **Contributors**: 241
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 3641 · **Open PRs**: 92 · **Closed issues**: 1026 · **Open issues**: 151 · **Commits**: 3767
+- **Releases**: 195 · **Merged PRs**: 3641 · **Open PRs**: 95 · **Closed issues**: 1026 · **Open issues**: 151 · **Commits**: 3767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 5 | 18 | 0 | 3 | 5 |
-| last60d | 2026-08-27 | 1 | 6 | 35 | 2 | 5 | 6 |
-| 90d | 2026-07-28 | 1 | 11 | 49 | 2 | 6 | 11 |
-| last180d | 2026-04-29 | 2 | 13 | 88 | 3 | 17 | 15 |
-| 360d | 2025-10-31 | 12 | 73 | 92 | 19 | 21 | 78 |
-| last720d | 2024-11-05 | 53 | 413 | 92 | 68 | 35 | 428 |
+| 30d | 2026-09-27 | 1 | 5 | 21 | 0 | 3 | 5 |
+| last60d | 2026-08-28 | 1 | 6 | 37 | 2 | 5 | 6 |
+| 90d | 2026-07-29 | 1 | 11 | 52 | 2 | 6 | 11 |
+| last180d | 2026-04-30 | 2 | 13 | 91 | 3 | 17 | 15 |
+| 360d | 2025-11-01 | 12 | 73 | 95 | 19 | 21 | 78 |
+| last720d | 2024-11-06 | 53 | 411 | 95 | 68 | 35 | 426 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for BentoML lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:18:22Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:36:14Z._
