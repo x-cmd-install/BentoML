@@ -14,12 +14,12 @@ x install BentoML
 
 ## Code insight
 
-Total: **84,747** lines of code across **595** files in the top 5 languages.
+Total: **80,961** lines of code across **556** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 71,684 | 2,157 | 11,670 | 441 |
-| ReStructuredText | 10,068 | 0 | 4,591 | 102 |
+| ReStructuredText | 6,282 | 0 | 2,794 | 63 |
 | Yaml | 818 | 799 | 29 | 31 |
 | Svg | 486 | 94 | 0 | 5 |
 | Jinja2 | 415 | 18 | 70 | 16 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.4.40` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-29
 
 ## Popularity
 
-- **Stars**: 8,924 · **Forks**: 1,051 · **Open issues**: 1,178 · **Contributors**: 241
+- **Stars**: 8,925 · **Forks**: 1,051 · **Open issues**: 1,178 · **Contributors**: 241
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 3642 · **Open PRs**: 97 · **Closed issues**: 1026 · **Open issues**: 152 · **Commits**: 3767
+- **Releases**: 195 · **Merged PRs**: 3644 · **Open PRs**: 95 · **Closed issues**: 1026 · **Open issues**: 152 · **Commits**: 3769
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 6 | 23 | 0 | 4 | 5 |
-| last60d | 2026-08-30 | 1 | 7 | 36 | 2 | 6 | 6 |
-| 90d | 2026-07-31 | 1 | 12 | 53 | 2 | 7 | 11 |
-| last180d | 2026-05-02 | 2 | 14 | 93 | 3 | 18 | 15 |
-| 360d | 2025-11-03 | 12 | 73 | 97 | 19 | 22 | 78 |
-| last720d | 2024-11-08 | 53 | 409 | 97 | 65 | 36 | 424 |
+| 30d | 2026-09-30 | 1 | 8 | 21 | 0 | 4 | 7 |
+| last60d | 2026-08-31 | 1 | 9 | 34 | 2 | 6 | 8 |
+| 90d | 2026-08-01 | 1 | 14 | 51 | 2 | 7 | 13 |
+| last180d | 2026-05-03 | 2 | 16 | 91 | 3 | 18 | 17 |
+| 360d | 2025-11-04 | 12 | 75 | 95 | 19 | 22 | 80 |
+| last720d | 2024-11-09 | 52 | 411 | 95 | 65 | 36 | 424 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for BentoML lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:14:01Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:14:09Z._
