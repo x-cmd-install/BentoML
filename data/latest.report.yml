@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.4.40"
   latestRelease: "v1.4.40"
   latestPrerelease: "v1.4.0a2"
-  collectedAt: 2026-10-30T06:13:57Z
+  collectedAt: 2026-10-31T06:03:21Z
 timeline:
   created: 2019-04-02
   lastCommit: 2026-10-29
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-10-23
   lastPrerelease: 2025-02-14
 popularity:
-  star: 8925
+  star: 8929
   watcher: 81
   fork: 1051
   release: 195
   contributor: 241
-  pullRequest: 4288
+  pullRequest: 4289
   issue: 1178
 language:
   Python: 2943761
@@ -35,63 +35,63 @@ language:
 totalBytes: 3036356
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 1
     mergedPR: 8
-    openPR: 21
+    openPR: 22
     closedIssue: 0
     openIssue: 4
     commit: 7
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 1
-    mergedPR: 9
-    openPR: 34
+    mergedPR: 8
+    openPR: 35
     closedIssue: 2
     openIssue: 6
     commit: 8
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 1
     mergedPR: 14
-    openPR: 51
+    openPR: 52
     closedIssue: 2
     openIssue: 7
     commit: 13
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 2
-    mergedPR: 16
-    openPR: 91
+    mergedPR: 15
+    openPR: 92
     closedIssue: 3
-    openIssue: 18
+    openIssue: 17
     commit: 17
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 12
     mergedPR: 75
-    openPR: 95
+    openPR: 96
     closedIssue: 19
     openIssue: 22
     commit: 80
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 52
     mergedPR: 411
-    openPR: 95
+    openPR: 96
     closedIssue: 65
     openIssue: 36
-    commit: 424
+    commit: 423
 total:
   release: 195
   mergedPR: 3644
-  openPR: 95
+  openPR: 96
   closedIssue: 1026
   openIssue: 152
   commit: 3769
 ---
 path: /home/runner/.x-repo/github.com/bentoml/BentoML
-collectedAt: 2026-10-30T06:14:03Z
+collectedAt: 2026-10-31T06:03:28Z
 loc:
   Python:
     code: 71684
