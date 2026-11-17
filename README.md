@@ -14,11 +14,11 @@ x install BentoML
 
 ## Code insight
 
-Total: **80,961** lines of code across **556** files in the top 5 languages.
+Total: **80,955** lines of code across **556** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 71,684 | 2,157 | 11,670 | 441 |
+| Python | 71,678 | 2,157 | 11,670 | 441 |
 | ReStructuredText | 6,282 | 0 | 2,794 | 63 |
 | Yaml | 818 | 799 | 29 | 31 |
 | Svg | 486 | 94 | 0 | 5 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.4.40` (2026-10-23)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-17
 
 ## Popularity
 
-- **Stars**: 8,941 · **Forks**: 1,065 · **Open issues**: 1,186 · **Contributors**: 240
+- **Stars**: 8,942 · **Forks**: 1,065 · **Open issues**: 1,186 · **Contributors**: 240
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 3644 · **Open PRs**: 119 · **Closed issues**: 1026 · **Open issues**: 160 · **Commits**: 3769
+- **Releases**: 195 · **Merged PRs**: 3645 · **Open PRs**: 118 · **Closed issues**: 1026 · **Open issues**: 160 · **Commits**: 3770
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 7 | 35 | 0 | 10 | 6 |
-| last60d | 2026-09-17 | 1 | 8 | 50 | 0 | 12 | 7 |
-| 90d | 2026-08-18 | 1 | 12 | 69 | 2 | 14 | 12 |
-| last180d | 2026-05-20 | 1 | 14 | 104 | 3 | 24 | 15 |
-| 360d | 2025-11-21 | 11 | 72 | 119 | 19 | 30 | 71 |
-| last720d | 2024-11-26 | 49 | 387 | 119 | 62 | 44 | 399 |
+| 30d | 2026-10-18 | 1 | 8 | 34 | 0 | 10 | 7 |
+| last60d | 2026-09-18 | 1 | 9 | 49 | 0 | 12 | 8 |
+| 90d | 2026-08-19 | 1 | 13 | 67 | 2 | 14 | 13 |
+| last180d | 2026-05-21 | 1 | 15 | 103 | 3 | 24 | 16 |
+| 360d | 2025-11-22 | 11 | 73 | 118 | 19 | 30 | 72 |
+| last720d | 2024-11-27 | 49 | 387 | 118 | 62 | 44 | 400 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for BentoML lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:15:36Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:54:30Z._
